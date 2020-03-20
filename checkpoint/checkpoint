@@ -1,0 +1,2 @@
+model_checkpoint_path: "Titanic.100-0.430910.ckpt"
+all_model_checkpoint_paths: "Titanic.100-0.430910.ckpt"
