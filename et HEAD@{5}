@@ -1,0 +1,27 @@
+[33m648d580[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to HEAD^
+[33m1f5726f[m HEAD@{1}: reset: moving to HEAD@{5}
+[33m1f5726f[m HEAD@{2}: reset: moving to HEAD@{5}
+[33m648d580[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{3}: reset: moving to HEAD@{5}
+[33m1f5726f[m HEAD@{4}: reset: moving to HEAD
+[33m1f5726f[m HEAD@{5}: reset: moving to HEAD
+[33m1f5726f[m HEAD@{6}: reset: moving to HEAD
+[33m1f5726f[m HEAD@{7}: reset: moving to HEAD
+[33m1f5726f[m HEAD@{8}: commit: home 2020/3/21
+[33m648d580[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{9}: revert: Revert "home 2020/3/20"
+[33m616b3d4[m HEAD@{10}: commit: home 202003210140
+[33m50db47c[m HEAD@{11}: revert: Revert "Revert "home 2020/3/20""
+[33m728373d[m HEAD@{12}: commit: 202003210134
+[33m20390d9[m HEAD@{13}: revert: Revert "home 2020/3/20"
+[33m47587d4[m HEAD@{14}: commit: 2020/3/21
+[33m22f45f8[m HEAD@{15}: commit: home 2020/3/20
+[33me5c55d5[m HEAD@{16}: commit: home 2020/3/20
+[33ma87e0bc[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{17}: pull: Fast-forward
+[33mc0a0dbb[m HEAD@{18}: pull: Fast-forward
+[33me5a62a1[m HEAD@{19}: commit: home 2020/3/11 0:35
+[33m444e871[m HEAD@{20}: commit: home 2020/3/9
+[33m05fc524[m HEAD@{21}: commit: home 2020/3/9
+[33mc3fd09f[m HEAD@{22}: pull: Fast-forward
+[33m3fdf488[m HEAD@{23}: commit: home 2020/3/5
+[33m7eafb71[m HEAD@{24}: commit: home 2020/3/4
+[33m4491c6a[m HEAD@{25}: commit: home 2020/3/3
+[33m615a079[m HEAD@{26}: commit (initial): home 2020/3/2

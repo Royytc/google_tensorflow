@@ -1,0 +1,7 @@
+CIFAR10_log/*
+data/*
+log/*
+logs/*
+ckpt_dir/*
+checkpoint/*
+/.ipynb_checkpoints/*
